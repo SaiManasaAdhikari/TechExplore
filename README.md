@@ -1,2 +1,2 @@
 # TechExplore
-Django Project
+Django Project website
